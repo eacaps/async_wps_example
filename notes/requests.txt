@@ -1,0 +1,5 @@
+//async
+http://localhost:8080/geoserver2.5/wps?service=WPS&version=1.0.0&request=Execute&Identifier=gs:HelloWPS&storeExecuteResponse=true&status=true&DataInputs=name%3Dbill
+
+//regular
+http://localhost:8080/geoserver2.5/wps?service=WPS&version=1.0.0&request=Execute&Identifier=gs:HelloWPS&DataInputs=name%3Dbill
