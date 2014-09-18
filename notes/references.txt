@@ -1,0 +1,5 @@
+resources used:
+
+http://docs.geoserver.org/stable/en/developer/programming-guide/wps-services/implementing.html
+http://lists.opengeospatial.org/pipermail/wps-dev/2010-October/000061.html
+http://zoo-project.org/trac/wiki/ZOOWPSImplementationReport
